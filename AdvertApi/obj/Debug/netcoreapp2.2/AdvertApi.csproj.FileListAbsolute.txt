@@ -1,0 +1,17 @@
+D:\work_stuff\micr-services\MicroServicesDemo\Src\microweb.advert\AdvertApi\bin\Debug\netcoreapp2.2\AdvertApi.Models.dll
+D:\work_stuff\micr-services\MicroServicesDemo\Src\microweb.advert\AdvertApi\obj\Debug\netcoreapp2.2\AdvertApi.csprojAssemblyReference.cache
+D:\work_stuff\micr-services\MicroServicesDemo\Src\microweb.advert\AdvertApi\obj\Debug\netcoreapp2.2\AdvertApi.csproj.CoreCompileInputs.cache
+D:\work_stuff\micr-services\MicroServicesDemo\Src\microweb.advert\AdvertApi\obj\Debug\netcoreapp2.2\AdvertApi.RazorAssemblyInfo.cache
+D:\work_stuff\micr-services\MicroServicesDemo\Src\microweb.advert\AdvertApi\obj\Debug\netcoreapp2.2\AdvertApi.RazorAssemblyInfo.cs
+D:\work_stuff\micr-services\MicroServicesDemo\Src\microweb.advert\AdvertApi\obj\Debug\netcoreapp2.2\AdvertApi.AssemblyInfoInputs.cache
+D:\work_stuff\micr-services\MicroServicesDemo\Src\microweb.advert\AdvertApi\obj\Debug\netcoreapp2.2\AdvertApi.AssemblyInfo.cs
+D:\work_stuff\micr-services\MicroServicesDemo\Src\microweb.advert\AdvertApi\obj\Debug\netcoreapp2.2\AdvertApi.RazorTargetAssemblyInfo.cache
+D:\work_stuff\micr-services\MicroServicesDemo\Src\microweb.advert\AdvertApi\bin\Debug\netcoreapp2.2\AdvertApi.deps.json
+D:\work_stuff\micr-services\MicroServicesDemo\Src\microweb.advert\AdvertApi\bin\Debug\netcoreapp2.2\AdvertApi.runtimeconfig.json
+D:\work_stuff\micr-services\MicroServicesDemo\Src\microweb.advert\AdvertApi\bin\Debug\netcoreapp2.2\AdvertApi.runtimeconfig.dev.json
+D:\work_stuff\micr-services\MicroServicesDemo\Src\microweb.advert\AdvertApi\bin\Debug\netcoreapp2.2\AdvertApi.dll
+D:\work_stuff\micr-services\MicroServicesDemo\Src\microweb.advert\AdvertApi\bin\Debug\netcoreapp2.2\AdvertApi.pdb
+D:\work_stuff\micr-services\MicroServicesDemo\Src\microweb.advert\AdvertApi\bin\Debug\netcoreapp2.2\AdvertApi.Models.pdb
+D:\work_stuff\micr-services\MicroServicesDemo\Src\microweb.advert\AdvertApi\obj\Debug\netcoreapp2.2\AdvertApi.csproj.CopyComplete
+D:\work_stuff\micr-services\MicroServicesDemo\Src\microweb.advert\AdvertApi\obj\Debug\netcoreapp2.2\AdvertApi.dll
+D:\work_stuff\micr-services\MicroServicesDemo\Src\microweb.advert\AdvertApi\obj\Debug\netcoreapp2.2\AdvertApi.pdb

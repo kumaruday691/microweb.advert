@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\work_stuff\\micr-services\\MicroServicesDemo\\Src\\microweb.advert\\AdvertApi.Models\\AdvertApi.Models.csproj": {}
+  },
+  "projects": {
+    "D:\\work_stuff\\micr-services\\MicroServicesDemo\\Src\\microweb.advert\\AdvertApi.Models\\AdvertApi.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\work_stuff\\micr-services\\MicroServicesDemo\\Src\\microweb.advert\\AdvertApi.Models\\AdvertApi.Models.csproj",
+        "projectName": "AdvertApi.Models",
+        "projectPath": "D:\\work_stuff\\micr-services\\MicroServicesDemo\\Src\\microweb.advert\\AdvertApi.Models\\AdvertApi.Models.csproj",
+        "packagesPath": "C:\\Users\\kumar\\.nuget\\packages\\",
+        "outputPath": "D:\\work_stuff\\micr-services\\MicroServicesDemo\\Src\\microweb.advert\\AdvertApi.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnet.myget.org/F/aspnetcore-dev/api/v3/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-windowsdesktop/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

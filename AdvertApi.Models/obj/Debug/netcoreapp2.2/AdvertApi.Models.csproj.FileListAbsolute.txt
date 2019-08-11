@@ -1,0 +1,8 @@
+D:\work_stuff\micr-services\MicroServicesDemo\Src\microweb.advert\AdvertApi.Models\bin\Debug\netcoreapp2.2\AdvertApi.Models.deps.json
+D:\work_stuff\micr-services\MicroServicesDemo\Src\microweb.advert\AdvertApi.Models\bin\Debug\netcoreapp2.2\AdvertApi.Models.dll
+D:\work_stuff\micr-services\MicroServicesDemo\Src\microweb.advert\AdvertApi.Models\bin\Debug\netcoreapp2.2\AdvertApi.Models.pdb
+D:\work_stuff\micr-services\MicroServicesDemo\Src\microweb.advert\AdvertApi.Models\obj\Debug\netcoreapp2.2\AdvertApi.Models.csproj.CoreCompileInputs.cache
+D:\work_stuff\micr-services\MicroServicesDemo\Src\microweb.advert\AdvertApi.Models\obj\Debug\netcoreapp2.2\AdvertApi.Models.AssemblyInfoInputs.cache
+D:\work_stuff\micr-services\MicroServicesDemo\Src\microweb.advert\AdvertApi.Models\obj\Debug\netcoreapp2.2\AdvertApi.Models.AssemblyInfo.cs
+D:\work_stuff\micr-services\MicroServicesDemo\Src\microweb.advert\AdvertApi.Models\obj\Debug\netcoreapp2.2\AdvertApi.Models.dll
+D:\work_stuff\micr-services\MicroServicesDemo\Src\microweb.advert\AdvertApi.Models\obj\Debug\netcoreapp2.2\AdvertApi.Models.pdb
